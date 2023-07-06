@@ -1,0 +1,92 @@
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\appsettings.json
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.exe
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.deps.json
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.runtimeconfig.json
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.pdb
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.csproj.AssemblyReference.cache
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.AssemblyInfoInputs.cache
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.AssemblyInfo.cs
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.csproj.CoreCompileInputs.cache
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets\msbuild.httpclient_signalr_app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets\msbuild.build.httpclient_signalr_app.props
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.httpclient_signalr_app.props
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.httpclient_signalr_app.props
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\scopedcss\bundle\httpclient_signalr_app.styles.css
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.csproj.CopyComplete
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\refint\httpclient_signalr_app.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.pdb
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.genruntimeconfig.cache
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\obj\Debug\net7.0\ref\httpclient_signalr_app.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Polly.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Polly.Extensions.Http.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\infinity\Desktop\test app\Api\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\appsettings.json
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.exe
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.deps.json
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.runtimeconfig.json
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\httpclient_signalr_app.pdb
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.Extensions.Features.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Polly.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Polly.Extensions.Http.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.csproj.AssemblyReference.cache
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.AssemblyInfoInputs.cache
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.AssemblyInfo.cs
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.csproj.CoreCompileInputs.cache
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets\msbuild.httpclient_signalr_app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets\msbuild.build.httpclient_signalr_app.props
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.httpclient_signalr_app.props
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.httpclient_signalr_app.props
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\scopedcss\bundle\httpclient_signalr_app.styles.css
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.csproj.CopyComplete
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\refint\httpclient_signalr_app.dll
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.pdb
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\httpclient_signalr_app.genruntimeconfig.cache
+C:\Users\infinity\Desktop\HttpClient_SignalR_App\httpclient_signalr_app\obj\Debug\net7.0\ref\httpclient_signalr_app.dll

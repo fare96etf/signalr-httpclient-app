@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uuFSMRfzwVyZ+RHVNo4VPdTG7gEF8Lq4az1QWnl392I=",
+  "Source": "httpclient_signalr_app",
+  "BasePath": "_content/httpclient_signalr_app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

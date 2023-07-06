@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\httpclient_signalr_app.props" />
+</Project>
